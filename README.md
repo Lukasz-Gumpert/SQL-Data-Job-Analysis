@@ -408,7 +408,7 @@ Proficiency in Tableau, Excel, and cloud platforms like AWS, Azure, and Snowflak
 - __There’s a Trade-Off Between Popularity and Pay:__
 The final scatter plot revealed a negative correlation between skill demand and compensation. Widely used tools like SQL and Tableau are in high demand but offer lower pay, while less common skills like Go and Hadoop are associated with higher salaries.
 
-# Final note:
+## Final note:
 
 This project not only deepened my understanding of the data analytics job market and its key trends, but also helped me strengthen my technical skill set through hands-on practice with real data.
 
